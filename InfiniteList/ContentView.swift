@@ -79,7 +79,7 @@ struct numberView: View {
                 
                 
             }
-        }.padding(.leading)
+        }.padding(.horizontal)
     }
 }
 struct ContentView_Previews: PreviewProvider {
